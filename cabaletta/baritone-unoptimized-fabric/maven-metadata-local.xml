@@ -3,9 +3,9 @@
   <groupId>cabaletta</groupId>
   <artifactId>baritone-unoptimized-fabric</artifactId>
   <versioning>
-    <release>1.20.4-beta1</release>
+    <release>1.20.5-beta1</release>
     <versions>
-      <version>1.20.4-beta1</version>
+      <version>1.20.5-beta1</version>
     </versions>
   </versioning>
 </metadata>
